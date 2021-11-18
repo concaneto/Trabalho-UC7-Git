@@ -31,6 +31,7 @@ fimse
 
 fim
 
+o que será que acontece se eu mudar o meio do projeto?
 // meio do projeto 2 //
 vou dar continuidade ao meio do projeto aqui
 
@@ -55,40 +56,5 @@ b <- 2
 c <- 3
 
 Escreval (a, b, c)
-
-fim
-
-
-// meio do projeto 4 //
-
-vou fazer mais uma vez
-
-var
-a : inteiro
-
-
-Alterando o meio do meio4
-
-inicio
-a <- 1
-fim
-
-continuando o meio 4
-
-vou escrever alguma coisa a mais para dar merge
-
-1
-2
-3
-
-testando
-
-novo teste
-
-1
-2
-3
-
-inicio
 
 fim
