@@ -2,12 +2,14 @@ Trabalho da UC7... Prazo dia 24/11
 
 Git
 
+Criar um repositorio.
+Cada componente criar uma brunch.
 aqui no meio eu vou colocar uma alteração para ver se sai da arvore principal
 
 Criar um repositorio.
 Cada componente criar uma brunch.
 
-
+//meio do projeto//
 agora que estou no meio do projeto... irei proceder com o seguinte código
 
 
@@ -29,4 +31,33 @@ fimse
 
 fim
 
+<<<<<<< HEAD
 o que será que acontece se eu mudar o meio do projeto?
+=======
+// meio do projeto 2 //
+vou dar continuidade ao meio do projeto aqui
+
+inicio da segunda metade do projeto
+fim da segunda metade do projeto
+
+
+// meio do projeto 3//
+
+Vou adicionar uma nova funcionalidade neste momento
+
+início da nova funcionalidade
+
+var
+
+a, b, c : inteiro
+
+início
+
+a <- 1
+b <- 2
+c <- 3
+
+Escreval (a, b, c)
+
+fim
+>>>>>>> meio-do-projeto-3
