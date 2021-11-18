@@ -66,6 +66,9 @@ vou fazer mais uma vez
 var
 a : inteiro
 
+
+Alterando o meio do meio4
+
 inicio
 a <- 1
 fim
