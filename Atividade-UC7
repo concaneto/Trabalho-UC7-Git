@@ -4,6 +4,7 @@ Git
 
 Criar um repositorio.
 Cada componente criar uma brunch.
+<<<<<<< HEAD
 
 
 // início//
@@ -13,3 +14,59 @@ fim do início
 
 // a partir daqui vai começar o meio //
 
+=======
+aqui no meio eu vou colocar uma alteração para ver se sai da arvore principal
+
+Criar um repositorio.
+Cada componente criar uma brunch.
+
+//meio do projeto//
+agora que estou no meio do projeto... irei proceder com o seguinte código
+
+
+var
+sucesso, choro <- logico
+
+
+inicio
+
+Escreval ("o trabalho consiste em juntar os códigos do início com os códigos do fim")
+
+se sucesso = verdadeiro entao
+	choro <- falso
+	escreval ("estou feliz")
+	senao
+	choro <- verdadeiro
+	
+fimse
+
+fim
+
+o que será que acontece se eu mudar o meio do projeto?
+// meio do projeto 2 //
+vou dar continuidade ao meio do projeto aqui
+
+inicio da segunda metade do projeto
+fim da segunda metade do projeto
+
+
+// meio do projeto 3//
+
+Vou adicionar uma nova funcionalidade neste momento
+
+início da nova funcionalidade
+
+var
+
+a, b, c : inteiro
+
+início
+
+a <- 1
+b <- 2
+c <- 3
+
+Escreval (a, b, c)
+
+fim
+>>>>>>> main
