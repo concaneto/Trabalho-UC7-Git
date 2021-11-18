@@ -2,5 +2,29 @@ Trabalho da UC7... Prazo dia 24/11
 
 Git
 
+aqui no meio eu vou colocar uma alteração para ver se sai da arvore principal
+
 Criar um repositorio.
 Cada componente criar uma brunch.
+
+
+agora que estou no meio do projeto... irei proceder com o seguinte código
+
+
+var
+sucesso, choro <- logico
+
+
+inicio
+
+Escreval ("o trabalho consiste em juntar os códigos do início com os códigos do fim")
+
+se sucesso = verdadeiro entao
+	choro <- falso
+	escreval ("estou feliz")
+	senao
+	choro <- verdadeiro
+	
+fimse
+
+fim
