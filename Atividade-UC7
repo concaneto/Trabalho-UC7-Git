@@ -4,6 +4,17 @@ Git
 
 Criar um repositorio.
 Cada componente criar uma brunch.
+<<<<<<< HEAD
+
+
+// início//
+
+início do início
+fim do início
+
+// a partir daqui vai começar o meio //
+
+=======
 aqui no meio eu vou colocar uma alteração para ver se sai da arvore principal
 
 Criar um repositorio.
@@ -58,3 +69,4 @@ c <- 3
 Escreval (a, b, c)
 
 fim
+>>>>>>> main
